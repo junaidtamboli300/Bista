@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+Product_style.access_product_inheritance,access_product_inheritance,Product_style.model_product_inheritance,base.group_user,1,1,1,1
